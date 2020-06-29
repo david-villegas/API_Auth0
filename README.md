@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Building Secure APIs with Rails 6 and Auth0
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In this tutorial, you'll see how straightforward it is to spin up a new Rails API, add JSON Web Token (JWT) support to make authorized requests and secure your endpoints, and leverage Auth0 as your authentication system to verify users and access tokens. The API you'll build is a simple one: you'll create an endpoint for reading, creating, and deleting short messages called Chirps.
